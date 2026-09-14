@@ -40,6 +40,13 @@ python debug.py
 
 This is a foundation repository: the emphasis is on making program behavior understandable before making it clever. It documents the early progression from syntax and control flow toward algorithms, data structures, and larger systems.
 
+## Technical report
+
+- [Read: From Syntax to Systems Thinking](docs/from-syntax-to-systems-thinking.md)
+- [Download the publication PDF](docs/from-syntax-to-systems-thinking.pdf)
+
+The report maps claims to repository artifacts, defines an evidence-maturity model, documents limitations, and provides a reproducible development roadmap.
+
 ## Foundation portfolio
 
 This repository is part of a five-repository learning path:
