@@ -29,17 +29,11 @@ gcc -Wall -Wextra -pedantic pairwise.c -o pairwise
 ./pairwise
 ```
 
-Python:
+The `debug.*` files are intentionally imperfect debugging targets. Inspect or repair them rather than treating them as production-ready examples:
 
 ```bash
 python debug.py
-```
-
-Java:
-
-```bash
-javac debug.java
-java debug
+# debug.java declares Program and contains a deliberate unresolved variable.
 ```
 
 ## Purpose
